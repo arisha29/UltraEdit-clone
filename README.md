@@ -7,4 +7,13 @@ The goal of this project is to focus on:
 
  - Structuring the webpage using HTML5.
  - Styling the interface using CSS3.
-This is a static clone and <b> does not include any actual code editing or IDE functionality </b>. It is intended to practice layout design and styling only.
+This is a static clone and <b> does not include any actual code editing or IDE functionality</b>. It is intended to practice layout design and styling only.
+
+# Features
+ - Basic layout of the UltraEdit text editor.
+ - Simple HTML5 structure to represent the different parts of the interface (menu bar, sidebar, editor window, status bar).
+CSS3 styling to mimic the look and feel of the UltraEdit interface.
+
+# Technologies Used
+ - HTML5
+ - CSS3
