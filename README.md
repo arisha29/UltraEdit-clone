@@ -17,3 +17,7 @@ CSS3 styling to mimic the look and feel of the UltraEdit interface.
 # Technologies Used
  - HTML5
  - CSS3
+
+# Future Improvements
+ - Enhance the design with responsive styles for better mobile view.
+ - Add interactivity using JavaScript for a more dynamic interface.
